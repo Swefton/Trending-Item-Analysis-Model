@@ -1,0 +1,1 @@
+trying to use time series analysis and sentiment analysis to identify trending products/items
